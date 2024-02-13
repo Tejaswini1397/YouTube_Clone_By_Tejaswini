@@ -2,7 +2,7 @@
 
 ❤️ YouTube Video Fetch and Search Web App-By Tejaswini ❤️
 
-Project link:
+❤️ Project link:https://tejaswini1397.github.io/YouTube_Clone_By_Tejaswini/
  
 This JavaScript code fetches popular YouTube videos using the YouTube Data API. It dynamically generates video cards with thumbnails, titles, and channel names. The video cards are clickable, redirecting the user to the YouTube video page when clicked.
 
